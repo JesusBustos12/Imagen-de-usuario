@@ -22,32 +22,6 @@ Desarrollé este proyecto para:
 - **CSS3**: Diseño responsivo, flexbox, transiciones hover, sombras y bordes redondeados.
 - **Google Fonts**: Fuente `Montserrat` para un estilo tipográfico profesional.
 
-## Instalación
-Para explorar o personalizar el proyecto localmente, sigue estos pasos:
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/<tu-usuario>/<nombre-repositorio>.git
-   ```
-   Reemplaza `<tu-usuario>` y `<nombre-repositorio>` con los detalles de tu repositorio (por ejemplo, `<tu-usuario>.github.io`).
-
-2. **Navega al directorio del proyecto**:
-   ```bash
-   cd <nombre-repositorio>
-   ```
-
-3. **Asegúrate de tener los archivos necesarios**:
-   - `index.html`: Estructura HTML del perfil.
-   - `style.css`: Estilos CSS del diseño.
-   - (Opcional) Una imagen de perfil para `.user__img`.
-
-4. **Abre el proyecto localmente**:
-   - Abre `index.html` en un navegador para previsualizar, o usa un servidor local:
-     ```bash
-     python -m http.server 8000
-     ```
-     Visita `http://localhost:8000` en tu navegador.
-
 ## Uso
 1. **Personaliza el contenido**:
    - Edita `index.html` para actualizar el nombre (`JesusBustos77`), correo (`@gmail.com`), ciudad (`Ciudad de Cordoba`), y métricas (`17k` seguidores, `1.5k` posts, `68k` me gusta).
@@ -60,37 +34,6 @@ Para explorar o personalizar el proyecto localmente, sigue estos pasos:
 
 2. **Personaliza los estilos**:
    - Modifica `style.css` para cambiar colores (por ejemplo, `#E57C92` para el fondo o `#E95270` para la tarjeta), fuentes, o márgenes.
-
-3. **Despliega en GitHub Pages**:
-   - Sube los archivos al repositorio:
-     ```bash
-     git add index.html style.css
-     git commit -m "Añade tarjeta de perfil para GitHub Pages"
-     git push origin main
-     ```
-   - Habilita GitHub Pages:
-     - Ve a tu repositorio en GitHub.
-     - Navega a **Settings > Pages**.
-     - En **Build and deployment**, selecciona **Deploy from a branch**, elige la rama `main` y la carpeta `/ (root)`.
-     - Haz clic en **Save**.
-   - El sitio estará disponible en `https://<tu-usuario>.github.io` o `https://<tu-usuario>.github.io/<nombre-repositorio>`.
-
-4. **Desactiva Jekyll (recomendado)**:
-   - Crea un archivo `.nojekyll` para evitar el procesamiento de Jekyll:
-     ```bash
-     touch .nojekyll
-     git add .nojekyll
-     git commit -m "Desactiva Jekyll"
-     git push origin main
-     ```
-
-## Estructura del proyecto
-```
-<nombre-repositorio>/
-├── index.html        # Estructura HTML de la tarjeta de perfil
-├── style.css         # Estilos CSS del diseño
-└── README.md         # Documentación del proyecto
-```
 
 ## Habilidades demostradas
 Este proyecto destaca las siguientes competencias técnicas:
@@ -106,26 +49,6 @@ Este proyecto es una muestra de mi capacidad para:
 - Aplicar principios de diseño responsivo y accesibilidad.
 - Gestionar proyectos de desarrollo web de manera organizada y eficiente.
 Estoy entusiasmado por aplicar estas habilidades en un entorno profesional y contribuir al éxito de su equipo. Si desea discutir mi experiencia o explorar otros proyectos de mi portafolio, contácteme a través de los detalles proporcionados abajo.
-
-## Contribuir
-Si deseas sugerir mejoras:
-1. Haz un fork del repositorio.
-2. Crea una rama para tus cambios:
-   ```bash
-   git checkout -b mi-rama
-   ```
-3. Realiza tus cambios y haz commit:
-   ```bash
-   git commit -m "Descripción de los cambios"
-   ```
-4. Sube los cambios a tu fork:
-   ```bash
-   git push origin mi-rama
-   ```
-5. Crea un Pull Request en GitHub.
-
-## Licencia
-Este proyecto está bajo la [Licencia MIT](LICENSE). Siéntete libre de usarlo como referencia o adaptarlo.
 
 ## Contacto
 - **Correo**: jesusbustosarizmendi0@gmail.com
