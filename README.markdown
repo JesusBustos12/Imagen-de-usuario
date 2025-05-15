@@ -128,9 +128,9 @@ Si deseas sugerir mejoras:
 Este proyecto está bajo la [Licencia MIT](LICENSE). Siéntete libre de usarlo como referencia o adaptarlo.
 
 ## Contacto
-- **Correo**: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com) (reemplaza con tu correo real)
-- **GitHub**: [github.com/<tu-usuario>](https://github.com/<tu-usuario>) (reemplaza con tu perfil)
-- **Sitio del proyecto**: (Añade la URL de GitHub Pages una vez desplegado, por ejemplo, `https://<tu-usuario>.github.io`)
+- **Correo**: jesusbustosarizmendi0@gmail.com
+- **GitHub**: https://github.com/JesusBustos12?tab=repositories
+- **Sitio del proyecto**: https://www.linkedin.com/in/jesus-bustos-arizmendi-325329283/
 
 ---
 
